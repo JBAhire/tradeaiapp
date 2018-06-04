@@ -1,0 +1,2 @@
+# tradeaiapp
+trade ai app
