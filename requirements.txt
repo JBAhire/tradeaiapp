@@ -13,7 +13,7 @@ pyparsing==2.2.0
 pytest==3.2.5
 python-dateutil==2.6.1
 pytz==2017.3
-PyYAML==3.12
+pyyaml>=4.2b1
 scipy==1.0.0
 six==1.11.0
 tensorflow==1.4.0
